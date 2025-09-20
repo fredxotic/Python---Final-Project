@@ -16,7 +16,7 @@ The implementation is **optimized for systems with limited memory (4GB RAM)** by
 
 ```
 
-Frameworks\_Assignment/
+Frameworks_Assignment/
 ├── data/
 │   ├── metadata.csv           # Original dataset (excluded from repo)
 │   └── small_metadata.csv     # Sample dataset (2000 rows)
