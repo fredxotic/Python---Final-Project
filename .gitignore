@@ -1,0 +1,23 @@
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Large data files
+data/metadata.csv
+data/metadata.csv.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
