@@ -75,7 +75,6 @@ def clean_data(df):
     )
 
     # Handle missing values in important columns
-    # This is the corrected section to handle the 'Categorical' type error
     if 'journal' in df_clean.columns and isinstance(df_clean['journal'].dtype, pd.CategoricalDtype):
         if 'Unknown' not in df_clean['journal'].cat.categories:
             df_clean['journal'] = df_clean['journal'].cat.add_categories('Unknown')
