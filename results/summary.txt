@@ -1,0 +1,62 @@
+CORD-19 Dataset Simple Analysis Summary
+=============================================
+
+📊 Publications by Year:
+year
+1969.0      1
+1971.0      2
+1974.0      1
+1975.0      1
+1976.0      1
+1977.0      1
+1980.0      2
+1982.0      1
+1986.0      6
+1988.0      1
+1989.0      2
+1991.0      2
+1992.0      3
+1993.0      2
+1995.0      4
+1996.0      3
+1997.0      1
+1998.0      3
+1999.0      3
+2000.0      7
+2001.0      4
+2002.0     32
+2003.0     23
+2004.0     29
+2005.0     20
+2006.0     33
+2007.0     27
+2008.0     44
+2009.0     46
+2010.0     48
+2011.0     55
+2012.0     51
+2013.0     63
+2014.0     63
+2015.0     59
+2016.0     96
+2017.0     83
+2018.0     84
+2019.0    125
+2020.0    380
+2021.0    487
+
+📚 Top 10 Journals:
+journal
+PLoS One                           97
+Sci Rep                            46
+Unknown                            38
+Intensive Care Med                 28
+Nat Commun                         26
+Crit Care                          23
+BMC Infect Dis                     23
+Lancet                             23
+Acta Pharmacol Sin                 22
+Int J Environ Res Public Health    21
+
+🔎 The year with the most publications: 2021.0 (487 papers)
+🏆 The most common journal: PLoS One (97 papers)
