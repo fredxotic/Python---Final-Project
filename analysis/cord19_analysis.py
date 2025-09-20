@@ -8,7 +8,7 @@ import re
 from datetime import datetime
 
 # Define a variable for the chunk size
-CHUNK_SIZE = 100
+CHUNK_SIZE = 10000
 
 # Helper function to infer optimal data types
 def get_optimal_dtypes(df):
